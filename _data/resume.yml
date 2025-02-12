@@ -1,0 +1,35 @@
+theme: default
+header:
+  name: Archit Jain
+  suffix: MCSA
+  display_contact_info: true
+  current_title: Software Engineer
+  intro: >
+    Motivated and versatile software and database developer, MCSA certified in Database
+    Development. Proficient in schema design, data normalization techniques and query/index tuning.
+    Always looking for new challenges and new technologies to learn. Experienced with the software
+    development life cycle (SDLC) utilizing various project management methodologies including
+    Agile, Scrum and Kanban. Efficient working both independently and in a team environment.
+contact:
+  #address: 123 Main St, Test, CA 91234
+  #phone: (123) 456-7890
+  email: architjen010@gmail.com
+sections:
+  experience:   true
+  education:    true
+  projects:     true
+  skills:       true
+  recognition:  true
+  associations: false
+  interests:    true
+  links:        true
+  social_links: false
+social:
+  Website:    https://architjen.github.io
+  GitHub:     https://github.com/architjen
+  #Twitter:    https://twitter.com/architjain3
+  #Dribbble:  https://dribbble.com/chadbaldwin
+  #FaceBook:  https://facebook.com/iamchadbaldwin
+  LinkedIn:   https://linkedin.com/in/archit-jain-6b4987a6
+  #Instagram: https://instagram.com/chad_baldwin
+  #Medium:    https://medium.com/@chad-baldwin
