@@ -1,10 +1,15 @@
-- degree: Cisco Networking certification program
-  uni: Riverside Community College
-  year: 2009 &mdash; 2013
+- degree: Masters2 Machine Learning and Data Mining
+  uni: Télécom St Etienne, Université Jean Monnet
+  year: 2018 &mdash; 2020
   summary: >
-    Focused on computer science and Cisco networking. Completed the 4 course
-    Cisco Networking certification program, and received a certificate of completion.
+    MLDM (Machine Learning and Data Mining) is an international master program by University Jean Monnet with french national master degre in Computer Science as well as the University Diploma in Machine Learning and Data Mining. 
+    The course covers the topics like: Machine learning, Big data, Pattern Recognition, Classification, Modelling, Knowledge Extraction and Data Mining.
 
+- degree: Bachelors of Computer Engineering
+  uni: Gujarat Technological University
+  year: 2013 &mdash; 2017
+  summary: >
+    
 #- degree: High School Diploma
 #  uni: Fountain Valley High School
 #  year: 2008
