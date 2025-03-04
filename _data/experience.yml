@@ -4,7 +4,7 @@
   url: "https://www.autoalert.com/"
   positions:
   - title: "Data Ops"
-    startdate: 01-11-2021
+    startdate: 01-06-2023
     enddate: 02-12-2024
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
     projects:
@@ -16,9 +16,9 @@
       - "Experience with using collaboration and CI/CD tools including Jenkins, Slack, Upsource, Jira and Confluence"
       - "Worked primarily with SQL Server versions 2008, 2012, 2014 practicing good HA/DR policies, using replication and Always On availability groups"
       - "Used AWS tools for troubleshooting, logging and deployment such as CloudWatch, CodeDeploy, and managing/monitoring servers through EC2"
-  - title: "Senior IT Support Analyst"
-    startdate: 2012-06-04
-    enddate: 2015-10-01
+  - title: "Data Ops"
+    startdate: 01-11-2021
+    enddate: 31-05-2023
     summary: "As an IT Support Analyst I was responsible for quickly triaging and troubleshooting issues in client data. Worked directly with clients over the phone to assist fixing data delivery issues. Built systems and tools to automate detection of bad data quality and reduce the work needed to fix."
     projects:
       - "Worked heavily with SSRS to write custom reports for all business needs ranging from simple tablix reports to intricate reports with benchmarks, charts, and complex expressions"
