@@ -18,13 +18,6 @@
       - "Construction of a new rpm agent to collect data"
       - "Improvement of Python script performance by introducing asynchronous processing"
 
- - title: "Data Ops"
-    startdate: 01-11-2021
-    enddate: 31-05-2023
-    summary: "As an IT Support Analyst I was responsible for quickly triaging and troubleshooting issues in client data. Worked directly with clients over the phone to assist fixing data delivery issues. Built systems and tools to automate detection of bad data quality and reduce the work needed to fix."
-    projects:
-      - "Worked heavily with SSRS to write custom reports for all business needs ranging from simple tablix reports to intricate reports with benchmarks, charts, and complex expressions"
-      - "Established a reporting data warehouse to ensure consistent metrics across all reports"
 
 - company: "Albert A. Webb Associates"
   summary:
