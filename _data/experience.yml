@@ -2,7 +2,7 @@
   logo: "/img/companylogos/aa.jpg"
   url: "https://www.societegenerale.com/fr"
   positions:
-  - title: "Data Ops"
+  - title: "Data Engineer"
     startdate: 01-08-2023
     enddate: 02-12-2024
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
@@ -59,7 +59,7 @@
 - company: "Aoyama Gakuin University"
   summary:
   logo: "/img/companylogos/aawa.png"
-  url: "https://www.webbassociates.com/"
+  url: "https://www.aoyama.ac.jp/en/"
   positions: 
   - title: "Machine Learning Research Intern"
     startdate: 02-04-2019
