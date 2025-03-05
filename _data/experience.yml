@@ -28,22 +28,47 @@
       - "Reduction of resource usage by 50%"
       - "Migration of on-premise infrastructure to OpenStack Cloud"
       - "Implementation of end-to-end logging"
-  
+
+- company: "Acoem"
+  logo: "/img/companylogos/aa.jpg"
+  url: "https://www.acoem.com/en/"
+  positions:
+  - title: "Data Scientist"
+    startdate: 11-08-2020
+    enddate: 07-04-2021
+    summary: "Security is one of the most essential factors when it comes to the construction of industrial plants. A small mishap can endanger lots of lives and resources. Hence, a gas leak detection system was built for one of the major players in the field of Oil and Gas"
+    projects:
+      - "Built a gas leak detection system with an overall improvement of 6% on the leak detection rates."
+      - "Applied the technique of localisation (triangulation) to know the exact position of the leaks on industrial site."
+      - "Applied re-learning techniques to build a more robust system for new industrial environments, thereby reducing the total number of false alarms."
+      - "Deployed the model on the industrial site to monitor the performance."
+      - "Fostered the culture of data-driven across the team of tech-profiles and engineers"
+      - "Applied the concept of explainability to better understand the model."
+
+  - title: "Machine Leqrning Intern"
+    startdate: 02-03-2020
+    enddate: 10-08-2020
+    summary: "It's very important to detect damage in vehicles at an early stage, if not found it can further deteriorate the quality of performance in the long run and can also be the primary reason for other major defects."
+    projects:
+      - "Built a classifier using the sensor data to detect different interior damages (misalignment, broken suspension, etc) in a car."
+      - "Performed the ensemble of regression techniques on the data to gauge the intensity of damage."
+      - "Process a large amount of data on a local server using a distributed Framework"
+      - "Group different types of defects and visualise high-dimensional data using a technique such as t-SNE"
+      - "Laid a detailed analysis of interior defects and how each defect corresponds to different road types and their evolution over time."
 
 
-- company: "Albert A. Webb Associates"
+- company: "Aoyama Gakuin University"
   summary:
   logo: "/img/companylogos/aawa.png"
   url: "https://www.webbassociates.com/"
   positions: 
-  - title: "IT Intern / Network Technician"
-    startdate: 2008-10-13
-    enddate: 2012-06-01
-    summary: "Supported a large multi-location network which hosted on-prem services for hundreds of civil engineers. Assisted in the installation and configuration of SAN, virtualization, network and power equipment."
+  - title: "Machine Learning Research Intern"
+    startdate: 02-04-2019
+    enddate: 31-07-2019
+    summary: "Mastication count is a very important factor that affects obesity and other health conditions indirectly, so it's important to have a proper number of counts while chewing (meal activities). And hence different classification models were built and tested on mastication dataset."
     projects:
-      - "Eliminated the need for hiring Cisco consultants by learning to support the Cisco devices through personal research, and formal courses offered at the local college"
-      - "In charge of installing, configuring and managing network monitoring software for hundreds of network devices using Nagios"
-      - "Established a reliable system for imaging and deploying desktops for new users"
+      - "Improved an existing ML model for mastication classifier with an accuracy of 96%"
+      - "Publication of research paper in an international conference after the successful completion of the project"
 
 #- company: American Money Group, Inc
 #  summary:
