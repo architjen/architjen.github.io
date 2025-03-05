@@ -7,7 +7,18 @@
     startdate: 01-06-2023
     enddate: 02-12-2024
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
-    projects:
+    project:
+      - daily tasks: 
+         - "Collection of critical data related to user accounts (approximately 30 million) across all 97k servers belonging to SG worldwide"
+         - "Build pipeline and ETL processes to extract, clean, and load data into the database"
+         - "Develop FastAPI to expose the data"
+      
+
+      - improvements:
+         - "Introduction of cloud components and micro-services to store and process data instead of a single server"
+         - "Securing the collection process by changing the collection method (from sftp:21 to https:443)"
+         - "Construction of a new rpm agent to collect data"
+         - "Improvement of Python script performance by introducing asynchronous processing"
       - "Collaborated with 3rd party data providers to build integrations for tasks such as SalesForce data syncing, email/address sanitization, data appends and ETL processes"
       - "Helped maintain and improve an elaborate calculation engine written in SQL to support new features and settings"
       - "Tuned existing SQL code to run faster and more efficiently reducing both runtime and resource usage through query and index tuning by analyzing execution plans, server statistics, dynamic management views (DMV's), SQL Server First Responder Kit and SentryOne Plan Explorer"
