@@ -7,19 +7,37 @@
     startdate: 01-06-2023
     enddate: 02-12-2024
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
-    project:
-      - daily tasks: 
+    projects:
       - "Collection of critical data related to user accounts (approximately 30 million) across all 97k servers belonging to SG worldwide"
       - "Build pipeline and ETL processes to extract, clean, and load data into the database"
       - "Develop FastAPI to expose the data"
+      - "Introduction of cloud components and micro-services to store and process data instead of a single server"
+      - "Securing the collection process by changing the collection method (from sftp:21 to https:443)"
+      - "Construction of a new rpm agent to collect data"
+      - "Improvement of Python script performance by introducing asynchronous processing"
 
-      - improvements:
-         - "Introduction of cloud components and micro-services to store and process data instead of a single server"
-         - "Securing the collection process by changing the collection method (from sftp:21 to https:443)"
-         - "Construction of a new rpm agent to collect data"
-         - "Improvement of Python script performance by introducing asynchronous processing"
-  
- 
+ - title: "Data Ops"
+    startdate: 01-11-2021
+    enddate: 31-05-2023
+    summary: "As an IT Support Analyst I was responsible for quickly triaging and troubleshooting issues in client data. Worked directly with clients over the phone to assist fixing data delivery issues. Built systems and tools to automate detection of bad data quality and reduce the work needed to fix."
+    projects:
+      - "Worked heavily with SSRS to write custom reports for all business needs ranging from simple tablix reports to intricate reports with benchmarks, charts, and complex expressions"
+      - "Established a reporting data warehouse to ensure consistent metrics across all reports"
+
+- company: "Albert A. Webb Associates"
+  summary:
+  logo: "/img/companylogos/aawa.png"
+  url: "https://www.webbassociates.com/"
+  positions: 
+  - title: "IT Intern / Network Technician"
+    startdate: 2008-10-13
+    enddate: 2012-06-01
+    summary: "Supported a large multi-location network which hosted on-prem services for hundreds of civil engineers. Assisted in the installation and configuration of SAN, virtualization, network and power equipment."
+    projects:
+      - "Eliminated the need for hiring Cisco consultants by learning to support the Cisco devices through personal research, and formal courses offered at the local college"
+      - "In charge of installing, configuring and managing network monitoring software for hundreds of network devices using Nagios"
+      - "Established a reliable system for imaging and deploying desktops for new users"
+
 #- company: American Money Group, Inc
 #  summary:
 #  logo: /img/companylogos/amg.jpg
