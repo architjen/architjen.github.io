@@ -1,5 +1,4 @@
 - company: "Société Générale"
-  summary: "French multinational universal bank and financial services"
   logo: "/img/companylogos/aa.jpg"
   url: "https://www.societegenerale.com/fr"
   positions:
@@ -45,7 +44,7 @@
       - "Fostered the culture of data-driven across the team of tech-profiles and engineers"
       - "Applied the concept of explainability to better understand the model."
 
-  - title: "Machine Leqrning Intern"
+  - title: "Machine Learning Intern"
     startdate: 02-03-2020
     enddate: 10-08-2020
     summary: "It's very important to detect damage in vehicles at an early stage, if not found it can further deteriorate the quality of performance in the long run and can also be the primary reason for other major defects."
