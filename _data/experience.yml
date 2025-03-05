@@ -3,7 +3,7 @@
   url: "https://www.societegenerale.com/fr"
   positions:
   - title: "Data Engineer"
-    startdate: 01-08-2023
+    startdate: 04-07-2023
     enddate: 02-12-2024
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
     projects:
@@ -17,7 +17,7 @@
 
   - title: "Data Ops"
     startdate: 01-11-2021
-    enddate: 31-07-2023
+    enddate: 03-07-2023
     summary: "Dashboard portal for Société Générale providing an overview of resource infrastructure"
     projects:
       - "Optimization of SQL Views execution time (by 60%) and improvement of readability and adaptability of Python script code"
