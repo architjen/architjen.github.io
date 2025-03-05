@@ -16,6 +16,20 @@
       - "Construction of a new rpm agent to collect data"
       - "Improvement of Python script performance by introducing asynchronous processing"
 
+  - title: "Data Ops"
+    startdate: 01-11-2021
+    enddate: 31-05-2023
+    summary: "Dashboard portal for Société Générale providing an overview of resource infrastructure"
+    projects:
+      - "Optimization of SQL Views execution time (by 60%) and improvement of readability and adaptability of Python script code"
+      - "Build pipeline (from different data sources) and ETL processes to extract, clean, and load data into the database"
+      - "Convert SQL data to JSON for transmission to Elasticsearch"
+      - "Calculate KPIs from the entire dataset and transmit them to Grafana"
+      - "Reduction of resource usage by 50%"
+      - "Migration of on-premise infrastructure to OpenStack Cloud"
+      - "Implementation of end-to-end logging"
+  
+
 
 - company: "Albert A. Webb Associates"
   summary:
