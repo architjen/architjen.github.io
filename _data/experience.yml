@@ -9,10 +9,9 @@
     summary: "Collection of local user accounts for all Société Générale servers.  In a team of 8 people following Agile practice"
     project:
       - daily tasks: 
-         - "Collection of critical data related to user accounts (approximately 30 million) across all 97k servers belonging to SG worldwide"
-         - "Build pipeline and ETL processes to extract, clean, and load data into the database"
-         - "Develop FastAPI to expose the data"
-      
+      - "Collection of critical data related to user accounts (approximately 30 million) across all 97k servers belonging to SG worldwide"
+      - "Build pipeline and ETL processes to extract, clean, and load data into the database"
+      - "Develop FastAPI to expose the data"
 
       - improvements:
          - "Introduction of cloud components and micro-services to store and process data instead of a single server"
