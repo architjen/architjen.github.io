@@ -1,5 +1,5 @@
 - company: "Société Générale"
-  logo: "/img/companylogos/sg.jpg"
+  logo: "/img/companylogos/sg.png"
   url: "https://www.societegenerale.com/fr"
   positions:
   - title: "Data Engineer"
@@ -29,7 +29,7 @@
       - "Implementation of end-to-end logging"
 
 - company: "Acoem"
-  logo: "/img/companylogos/acoem.jpg"
+  logo: "/img/companylogos/acoem.png"
   url: "https://www.acoem.com/en/"
   positions:
   - title: "Data Scientist"
