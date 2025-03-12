@@ -1,5 +1,5 @@
 - company: "Société Générale"
-  logo: "/img/companylogos/sg.png"
+  logo: "/img/sg.png"
   url: "https://www.societegenerale.com/fr"
   positions:
   - title: "Data Engineer"
@@ -29,7 +29,7 @@
       - "Implementation of end-to-end logging"
 
 - company: "Acoem"
-  logo: "/img/companylogos/acoem.png"
+  logo: "/img/acoem.png"
   url: "https://www.acoem.com/en/"
   positions:
   - title: "Data Scientist"
@@ -58,7 +58,7 @@
 
 - company: "Aoyama Gakuin University"
   summary:
-  logo: "/img/companylogos/aoyama.png"
+  logo: "/img/aoyama.png"
   url: "https://www.aoyama.ac.jp/en/"
   positions: 
   - title: "Machine Learning Research Intern"
