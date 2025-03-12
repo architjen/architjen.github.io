@@ -1,5 +1,5 @@
 - company: "Société Générale"
-  logo: "/img/companylogos/aa.jpg"
+  logo: "/img/companylogos/sg.jpg"
   url: "https://www.societegenerale.com/fr"
   positions:
   - title: "Data Engineer"
@@ -29,7 +29,7 @@
       - "Implementation of end-to-end logging"
 
 - company: "Acoem"
-  logo: "/img/companylogos/aa.jpg"
+  logo: "/img/companylogos/acoem.jpg"
   url: "https://www.acoem.com/en/"
   positions:
   - title: "Data Scientist"
@@ -58,7 +58,7 @@
 
 - company: "Aoyama Gakuin University"
   summary:
-  logo: "/img/companylogos/aawa.png"
+  logo: "/img/companylogos/aoyama.png"
   url: "https://www.aoyama.ac.jp/en/"
   positions: 
   - title: "Machine Learning Research Intern"
@@ -68,25 +68,3 @@
     projects:
       - "Improved an existing ML model for mastication classifier with an accuracy of 96%"
       - "Publication of research paper in an international conference after the successful completion of the project"
-
-#- company: American Money Group, Inc
-#  summary:
-#  logo: /img/companylogos/amg.jpg
-#  url: http://www.americanmoneygroup.com/
-#  positions:
-#  - title: IT Consultant
-#    startdate: 2009-03-01
-#    enddate: 2011-05-01
-#    summary: Provided a broad range of IT services. Helpdesk support, computer repair, VoIP management & configuration, as well as website and intranet maintenance.
-#    projects:
-
-#- company: Me-N-Ed's Pizza Parlor
-#  summary:
-#  logo: /img/companylogos/mne.jpg
-#  url: https://www.meneds.com/
-#  positions:
-#  - title: Employee
-#    startdate: 2002-09-01
-#    enddate: 2008-10-01
-#    summary: A family owned business from 1963 to 2020. Worked in the kitchen and the bar, as a cashier and a cook. Helped with business paperwork, quickbooks, building spreadsheets, and in recent years during the COVID pandemic, helped to run social media to keep business going strong with a delivery only business.
-#    projects:
