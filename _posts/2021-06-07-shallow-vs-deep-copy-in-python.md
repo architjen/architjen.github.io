@@ -16,7 +16,7 @@ id(b_list)
 
 #### memory address of the a_list
 
-```powershell
+```python
 id(a_list)
 >>> 140530511099648
 ```
@@ -24,7 +24,7 @@ id(a_list)
 Hence, we can see here that both of the list share the same address and any changes made to one list would directly affect the other list as well. To check this we can even use the equality "==" and "is" operator in python, where "==" compares if the list are equal irrespective of their addresses and "is" compares the list along with their addresses. More precisely, '==' is equality operator and 'is' an identity operator.
 
 The variables in python are not the object buckets, but rather pointers to object land. Hence, when you assign a variable to another variable, we are simply pointing the to the same object instead of containing it.
-```tsql
+```python
 # check if both the list are the same
 a_list == b_list
 >>> True
