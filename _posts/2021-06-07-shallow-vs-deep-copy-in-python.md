@@ -4,14 +4,12 @@ When you use an assignment operator, it doesnt creates a new item instead it bin
 
 When you declare a ```new_list = old_list```, we are not creating a new list or a copy of it, instead we are allocating the same address to the new_list. lets understand with an example:
 
-```python
-a_list = [1,2,3,4,5]
-b_list = a_list
-```
-
 #### memory address of the b_list
 
 ```python
+a_list = [1,2,3,4,5]
+b_list = a_list
+
 id(b_list)  
 >>> 140530511099648
 ```
